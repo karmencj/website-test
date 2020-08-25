@@ -1,4 +1,4 @@
-baseURL = "https://openforcefield.org/"
+baseURL = "https://karmencj.github.io/website-test/"
 languageCode = "en-us"
 title = "OpenFF"
 theme = "openff"
